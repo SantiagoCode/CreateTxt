@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreateSantiagoInstanceTXT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ac5995f1f6f4ad4c3fac148dd737b5ba76a445e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreateSantiagoInstanceTXT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreateSantiagoInstanceTXT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
